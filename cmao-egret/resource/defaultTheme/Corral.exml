@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="skins.Corral"  minWidth="100%" minHeight="100%" xmlns:e="http://ns.egret.com/eui">
+    <e:Rect  height="100%" width="100%" fillColor="0x518AF9"/>
+</e:Skin>

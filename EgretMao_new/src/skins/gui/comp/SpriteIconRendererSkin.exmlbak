@@ -1,0 +1,24 @@
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<e:Skin xmlns:e="http://ns.egret-labs.org/egret" height="80">-->
+
+    <!--<e:states>-->
+        <!--<e:State name="up"/>-->
+        <!--<e:State name="down" />-->
+        <!--<e:State name="disabled"/>-->
+    <!--</e:states>-->
+
+    <!--<e:Label id="labelDisplay" size="24" fontFamily="Microsoft YaHei"-->
+
+             <!--width="100%" height="100%"-->
+
+             <!--textColor="0x111111"-->
+
+             <!--textColor.down="0xffffff"-->
+
+             <!--textColor.disabled="0xcccccc"-->
+
+             <!--textAlign="center"-->
+
+             <!--verticalAlign="middle"/>-->
+
+<!--</e:Skin>-->
